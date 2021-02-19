@@ -1,7 +1,7 @@
 module.exports = {
     name: 'pong',
     description: 'Runs pong command',
-    execute(args) {
+    execute(message, args) {
         console.log('POONGGGG');
     },
 };
