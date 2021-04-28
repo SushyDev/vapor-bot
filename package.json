@@ -1,5 +1,5 @@
 {
-  "name": "Vapor-Bot",
+  "name": "gen-bot",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "app": "^0.1.0",
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "http": "*"
   },
   "devDependencies": {
     "discord.js": "^12.5.1",
