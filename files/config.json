@@ -1,8 +1,8 @@
 {
-    "name": "Vapor Bot",
+    "username": "Vapor",
     "prefix": ".",
-    "avatar": "https://cdn.discordapp.com/avatars/655865411119611904/2aba1f6b1621377ba7fbb631980c505e.png?size=4096",
-    "atype": "Watching",
-    "aname": "over Vapor",
+    "avatar": "https://cdn.discordapp.com/app-icons/811608395286315010/b67521fbf120af4e5a6cc4c1996885b7.png",
+    "activityType": "Watching",
+    "activityName": "over Vapor",
     "status": "Online"
 }
